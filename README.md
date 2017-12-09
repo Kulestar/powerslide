@@ -1,0 +1,1 @@
+# PowerSlide - JSON defined sequencing engine for Unity/ PowerUI.
